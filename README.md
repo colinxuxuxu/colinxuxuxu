@@ -4,7 +4,7 @@ I am a Senior College Student studying Computer Science Game at USC. I have been
 scenery, dialog - all come together to make memories players will not forget. I am especially interested Gameplay design and engineering, as I have worked on several video games as a Gameplay engineer. 
 
  - My LinkedIn: www.linkedin.com/in/ken-xu-a697a6289
- - Download my resume here: https://drive.google.com/file/d/1ErlQWNZ0-5LOJp0R-S5cWWZ-JsKEELwE/view?usp=sharing
+ - Download my resume here: https://drive.google.com/file/d/1eODNbWRFN4gm-7-JqawiLhP46W91jPpV/view?usp=sharing
 
 Language and Skills: C++, Unreal Engine 5, Java, JavaScript, Procreate
 
